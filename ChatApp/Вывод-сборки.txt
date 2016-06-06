@@ -1,0 +1,3 @@
+﻿1>------ Перестроение всех файлов начато: проект: ChatApp, Конфигурация: Debug Any CPU ------
+1>  ChatApp -> E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+========== Перестроение всех проектов: успешно: 1, с ошибками: 0, пропущено: 0 ==========

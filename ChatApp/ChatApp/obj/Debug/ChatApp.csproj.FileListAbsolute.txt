@@ -1,0 +1,8 @@
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+E:\dropbox\Dropbox\example visual studio\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
